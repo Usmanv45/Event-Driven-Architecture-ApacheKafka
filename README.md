@@ -70,16 +70,3 @@ cd ../email-service
 mvn spring-boot:run
 
 
-# Running the Services
-
-## Order Service:
-cd order-service
-mvn spring-boot:run
-
-## Stock Service:
-cd ../stock-service
-mvn spring-boot:run
-
-## Email Service:
-cd ../email-service
-mvn spring-boot:run
